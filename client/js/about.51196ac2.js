@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmenu"]=self["webpackChunkmenu"]||[]).push([[443],{8418:function(e,n,u){u.r(n),u.d(n,{default:function(){return o}});var t=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("h1",[e._v("Поставки")])},l=[],r=u(144),c=r.Z.extend({name:"About",components:{}}),s=c,a=u(1001),f=(0,a.Z)(s,t,l,!1,null,null,null),o=f.exports}}]);
+//# sourceMappingURL=about.51196ac2.js.map
